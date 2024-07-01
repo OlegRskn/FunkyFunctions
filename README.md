@@ -18,4 +18,4 @@ Welcome to **FunkyFunctions**! This repository is dedicated to creating fun and 
 
 3. **Enjoy the funkiness!** 💃🕺
 
-## Contributing 🛠️
+
